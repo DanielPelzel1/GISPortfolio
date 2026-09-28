@@ -13,9 +13,13 @@ The project uses Landsat imagery to examine changes in vegetation and land surfa
 
 The analysis focused on the Beaver, Utah area and used imagery from Landsat 5, 7, 8, and 9.
 
+![Wildfire Disturbance Map](./assets/img/Wildfire%20Disturbance.png) 
+
 ## Burn Severity
 
 The project also classified burn severity using dNBR values. Areas were categorized based on dNBR thresholds to identify moderate and high burn severity.
+
+![Burn Severity Map](./assets/img/Burn%20Severity.png) 
 
 ## Tools
 
