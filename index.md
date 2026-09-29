@@ -24,6 +24,14 @@ This project maps major battle sites from the Texas Revolution and connects them
 
 [View Project](./texas-revolution-battle-route.html)
 
+### Hydrologic Analysis
+
+This project uses GIS to analyze watershed and drainage patterns in West Texas.
+
+**Tools:** ArcGIS Pro, DEM, hydrologic analysis, and watershed analysis.
+
+[View Project](./hydrologic-analysis.html)
+
 
 ## About
 
