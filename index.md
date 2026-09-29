@@ -18,7 +18,7 @@ This project uses Google Earth Engine and Landsat imagery to analyze wildfire di
 
 This project maps major battle sites from the Texas Revolution and connects them into a route through Texas.
 
-**Tools:** ArcGIS, GIS mapping, cartography, and route mapping.
+**Tools:** ArcGIS Pro, GIS mapping, cartography, and route mapping.
 
 [View Project](./texas-revolution-battle-route.html)
 
