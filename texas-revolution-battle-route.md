@@ -17,7 +17,7 @@ The purpose of this project was to create a route connecting important locations
 
 ## Tools
 
-- ArcGIS
+- ArcGIS Pro
 - GIS mapping
 - Cartography
 - Route mapping
