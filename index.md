@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# GIS Portfolio
-
 Welcome to my GIS portfolio. This site showcases projects involving GIS, remote sensing, and spatial analysis.
 
 ## Projects
