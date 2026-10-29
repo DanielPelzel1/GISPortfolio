@@ -20,7 +20,9 @@ This project uses Google Earth Engine and Landsat imagery to analyze wildfire di
 
 **Tools:** Google Earth Engine, Landsat, dNBR, NDVI, and land surface temperature.
 
-[View Project](./wildfire-disturbance-burn-severity.html)
+
+[![Wildfire Disturbance Map](./assets/img/Wildfire%20Disturbance.png)](./wildfire-disturbance-burn-severity.html)
+
 
 ### Texas Revolution Battle Route
 
@@ -28,7 +30,9 @@ This project maps major battle sites from the Texas Revolution and connects them
 
 **Tools:** ArcGIS Pro, GIS mapping, cartography, and route mapping.
 
-[View Project](./texas-revolution-battle-route.html)
+
+[![Texas Revolution Map](./assets/img/Texas%20Revolution%20Final%20Map.png)](./texas-revolution-battle-route.html)
+
 
 ### Hydrologic Analysis
 
@@ -36,4 +40,6 @@ This project uses GIS to analyze watershed and drainage patterns in West Texas.
 
 **Tools:** ArcGIS Pro, DEM, hydrologic analysis, and watershed analysis.
 
-[View Project](./hydrologic-analysis.html)
+
+[![Hydrologic Analysis Map](./assets/img/Hydrologic%20Analysis%20Lab.png)](./hydrologic-analysis.html)
+
