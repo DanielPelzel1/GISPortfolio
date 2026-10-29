@@ -33,3 +33,10 @@ The project also classified burn severity using dNBR values. Areas were categori
 ## Location
 
 Beaver, Utah
+
+## Project Source Code
+
+The Google Earth Engine JavaScript scripts used for this project are available on GitHub.
+
+- [Wildfire Disturbance Analysis Code](./code/wildfire-disturbance.js)
+- [Burn Severity Analysis Code](./code/burn-severity.js)
