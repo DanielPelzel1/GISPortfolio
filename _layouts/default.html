@@ -23,6 +23,23 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+<h2>About Me</h2>
+
+<img src="{{ '/assets/img/Bryce%20Canyon%20Photo.JPG' | relative_url }}"
+     alt="Daniel Pelzel at Bryce Canyon"
+     style="width: 180px; border-radius: 8px;">
+
+<p>
+I am a Conservation and Restoration Ecology student at Utah State University with an interest in GIS, remote sensing, and environmental data analysis. I am also an FAA Part 107 certified drone pilot.
+</p>
+
+<p>
+<a href="{{ '/Resume.pdf' | relative_url }}">
+<strong>View My Resume (PDF)</strong>
+</a>
+</p>
+
+        
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
