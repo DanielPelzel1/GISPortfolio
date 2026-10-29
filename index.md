@@ -46,3 +46,11 @@ This project uses GIS to analyze watershed and drainage patterns in West Texas.
 
 [![Hydrologic Analysis Map](./assets/img/Hydrologic%20Analysis%20Lab.png)](./hydrologic-analysis.html)
 
+
+### Drone Photography & Video
+
+This gallery showcases my aerial photography from Spiral Jetty, a local park, and a recreation area in Montana.
+
+**Tools:** FAA Part 107, UAS operations, aerial photography, and videography.
+
+[![Drone Photography - Spiral Jetty](./assets/img/Spiral%20Jetty%201.JPG)](./drone-photography.html)
