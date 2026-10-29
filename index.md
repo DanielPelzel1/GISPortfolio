@@ -4,6 +4,14 @@ layout: default
 
 Welcome to my GIS portfolio. This site showcases projects involving GIS, remote sensing, and spatial analysis.
 
+## About Me
+
+<img src="./assets/img/Bryce%20Canyon%20Photo.JPG" alt="Daniel Pelzel at Bryce Canyon" width="220" style="float: left; margin: 0 20px 15px 0; border-radius: 8px;">
+
+I am a Conservation and Restoration Ecology student at Utah State University with an interest in GIS, remote sensing, and environmental data analysis. I am also an FAA Part 107 certified drone pilot.
+
+<div style="clear: both;"></div>
+
 ## Projects
 
 ### Wildfire Disturbance and Burn Severity Analysis
@@ -29,8 +37,3 @@ This project uses GIS to analyze watershed and drainage patterns in West Texas.
 **Tools:** ArcGIS Pro, DEM, hydrologic analysis, and watershed analysis.
 
 [View Project](./hydrologic-analysis.html)
-
-
-## About
-
-I am a Conservation and Restoration Ecology student at Utah State University interested in GIS, remote sensing, and environmental data analysis.
