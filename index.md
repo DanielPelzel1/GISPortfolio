@@ -12,6 +12,9 @@ I am a Conservation and Restoration Ecology student at Utah State University wit
 
 <div style="clear: both;"></div>
 
+
+**[View My Resume (PDF)](./Resume.pdf)**
+
 ## Projects
 
 ### Wildfire Disturbance and Burn Severity Analysis
